@@ -14,4 +14,4 @@ SELECT alias FROM Performers
     WHERE alias NOT LIKE '%% %%';
 
 SELECT name FROM Tracks
-    WHERE name LIKE '%%my%%' OR name LIKE '%%my%%';
+    WHERE name LIKE '%%мой%%' OR name LIKE '%%my%%';
