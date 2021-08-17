@@ -30,6 +30,7 @@ INSERT INTO AlbumsPerformers(performer_id, album_id)
 	VALUES(1, 1), (2, 6), (3, 8), (4, 4), 
 	(5, 7), (6, 2), (7, 5), (8, 1);
 	
+	
 INSERT INTO CompilationsTracks(compilation_id, track_id)
 	VALUES(1, 4), (1, 15), (1, 3), (2, 7), (2, 8), 
 	(3, 3), (3, 13), (4, 12), (4, 7), (4, 5),
